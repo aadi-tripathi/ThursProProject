@@ -1,9 +1,9 @@
-version: 1.0.0
 info:
   model: int-scaffold
 packages:
-- name: ThursProProject
+- gitBranch: release/2.0.0
   gitServerName: specSource
   gitUrl: https://github.com/aadi-tripathi
   gitUsername: aadi-tripathi
-  gitBranch: release/1.0.0
+  name: ThursProProject
+version: 2.0.0
